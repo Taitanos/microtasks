@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Input from "./microtask/Input";
+import InputTask from "./microtask/InputTask";
 
 function App() {
     return (
         <div className="app">
-            <Input/>
+            <InputTask/>
         </div>
     )
 }
